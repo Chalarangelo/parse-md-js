@@ -49,7 +49,7 @@ The parser will parse the contents of `yourMarkdownVar` into `parsedMD` as HTML.
 
 - **Single line blockquotes** are available using the `>` symbol:
 ```
-> blockquotes
+> blockquote
 ```
 
 - **Horizontal rules** are available using either `---` or `===`:
@@ -58,7 +58,7 @@ The parser will parse the contents of `yourMarkdownVar` into `parsedMD` as HTML.
  ===
 ```
 
-- **Line breaks** are only supported using two or more newline characters:
+- **Line breaks** are only supported using two or more newline characters.
 
 - **Tables**, **inline HTML** and **Youtube vide embedding** are not supported.
 
